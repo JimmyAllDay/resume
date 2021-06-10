@@ -1,6 +1,6 @@
-#The Resume of James William Hamilton Marshall#
+# The Resume of James William Hamilton Marshall
 
-#Instructions:
+# Instructions:
 
 1. Read
 
