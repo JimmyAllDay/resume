@@ -7,10 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "James Marshall",
   "license": "ISC",
   "dependencies": {
-    "bootstrap": "^5.0.1",
-    "sass": "^1.34.1"
+    "bootstrap": "^5.1.1"
   }
 }
